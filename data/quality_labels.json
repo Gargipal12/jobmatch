@@ -1,0 +1,5 @@
+{
+  "note": "Hand labels for the synthetic sample set. Replace with labels you create by reviewing a sample of a real dataset.",
+  "ghost": ["j30", "j31", "j32"],
+  "duplicate_groups": [["j01", "j02"], ["j03", "j34"]]
+}

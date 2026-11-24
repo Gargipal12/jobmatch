@@ -1,0 +1,15 @@
+{
+  "note": "Hand-written starter labels for the synthetic sample set. Grades: 2 = strong match, 1 = partial match. Replace with ~50 pairs you label yourself on a real dataset.",
+  "queries": [
+    {"id": "q1", "query": "python backend developer with fastapi and sql", "relevant": {"j03": 2, "j34": 2, "j04": 2, "j28": 1}},
+    {"id": "q2", "query": "build LLM agents with tool calling", "relevant": {"j08": 2, "j09": 2, "j29": 2, "j33": 1}},
+    {"id": "q3", "query": "semantic search and ranking engineer", "relevant": {"j13": 2, "j14": 2, "j07": 1}},
+    {"id": "q4", "query": "deploy machine learning models docker", "relevant": {"j26": 2, "j01": 1, "j02": 1}},
+    {"id": "q5", "query": "recommendation systems personalisation", "relevant": {"j14": 2, "j01": 2, "j02": 2}},
+    {"id": "q6", "query": "image classification computer vision", "relevant": {"j25": 2}},
+    {"id": "q7", "query": "devops kubernetes aws", "relevant": {"j10": 2, "j11": 1, "j40": 1}},
+    {"id": "q8", "query": "ai internship remote", "relevant": {"j09": 2, "j28": 1, "j35": 1}},
+    {"id": "q9", "query": "retrieval augmented generation vector database", "relevant": {"j08": 2, "j29": 2, "j07": 1}},
+    {"id": "q10", "query": "react frontend", "relevant": {"j05": 2, "j18": 1}}
+  ]
+}
