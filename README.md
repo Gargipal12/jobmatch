@@ -2,7 +2,7 @@
 
 A resume-to-role job search and recommendation engine that compares keyword, dense vector, and hybrid retrieval, cleans noisy listings, personalizes results with saved preferences, and reranks candidates using Gemini with resilient fallbacks.
 
-**Live Demo:** `<your-streamlit-app-url>` · **Repository:** `https://github.com/Gargipal12/jobmatch`
+**Live Demo:** `<https://jobmatch-u8mxpzbtawgckhsrknrxhx.streamlit.app/>` · **Repository:** `https://github.com/Gargipal12/jobmatch`
 
 | Mode | How it finds jobs | Good at | Weak at |
 |---|---|---|---|
